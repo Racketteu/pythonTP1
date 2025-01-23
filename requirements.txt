@@ -4,3 +4,5 @@ black
 pre-commit
 pyright
 pylint
+pytest
+pytest-cov
